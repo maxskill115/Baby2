@@ -145,3 +145,10 @@ Baby1 QA sau rename đã PASS ở 1440/390/320, static PASS 3.554 ownership/93 s
 - **Độ phủ cuối: display Baby2 1.603 ảnh ≡ G: IMG_checked 1.603 ảnh, 0 thiếu.** Kích thước images giảm 264 → **237 MB** (q80/1600 nhẹ hơn q84 full-res cũ).
 - **GitHub:** images 237 MB + posters 6 MB + code — đủ điều kiện push (file lớn nhất < 100 MB). **Videos 5 GB vẫn vượt giới hạn GitHub** — nếu muốn đưa video lên cần tách repo/LFS/cloud riêng.
 - WEBP/Yên đã bỏ 24 file legacy (chúng thuộc quyền Cá, giờ nằm trong IMG_checked của Cá) — đã ghi log trong reconvert-missing-audit.json.
+
+## TÁCH REPO RIÊNG & PUSH GITHUB (06/09/2026)
+- Site đã tách khỏi Discovery, repo riêng: **https://github.com/maxskill115/Baby2** — local: `F:/0.Tools/fingermath/Baby2`.
+- Push đầy đủ media + video theo đợt ≤350MB bằng `F:/0.Tools/fingermath/push-batched.py` (script dùng chung, idempotent, tự retry/rebase).
+- **4 file video >100MB bị GitHub chặn cứng, KHÔNG lên được, giữ local** (xem `.gitignore`): `assets/y-khue/videos/2022/08/2022-08-25_1_sieuam.mp4` (167MB)
+- Cấu trúc giữ nguyên (assets/css/js/data/scripts); `.gitignore` repo: contact-sheets + chỉ video của assets/y-khue/videos.
+- Sau này đổi tên project/domain trên Vercel thì nhớ cập nhật link card trong repo Discovery (`app.js`).
