@@ -1,0 +1,202 @@
+{
+  "version": 1,
+  "reviewed": "2026-09-06",
+  "rule": "keep-all-distinct-content",
+  "groups": [
+    {
+      "destination": "Baby2/assets/y-khue/images/2022/12/2022-12-08_1.webp",
+      "variants": [
+        {
+          "source": "Baby2/Cá/IMG/2022-12-08_1.jpg",
+          "destination": "Baby2/assets/y-khue/images/2022/12/2022-12-08_1-alt2.webp",
+          "subtype": "different-photo"
+        },
+        {
+          "source": "Baby2/Cá/IMG/2022-12-08_1.png",
+          "destination": "Baby2/assets/y-khue/images/2022/12/2022-12-08_1-alt3.webp",
+          "subtype": "different-photo"
+        }
+      ]
+    },
+    {
+      "destination": "Baby2/assets/y-khue/images/2022/12/2022-12-08_2.webp",
+      "variants": [
+        {
+          "source": "Baby2/Cá/IMG/2022-12-08_2.jpg",
+          "destination": "Baby2/assets/y-khue/images/2022/12/2022-12-08_2-alt2.webp",
+          "subtype": "different-photo"
+        }
+      ]
+    },
+    {
+      "destination": "Baby2/assets/y-khue/images/2022/12/2022-12-09.webp",
+      "variants": [
+        {
+          "source": "Baby2/Cá/IMG/2022-12-09.png",
+          "destination": "Baby2/assets/y-khue/images/2022/12/2022-12-09-alt2.webp",
+          "subtype": "screenshot-of-selected-photo"
+        }
+      ]
+    },
+    {
+      "destination": "Baby2/assets/y-khue/images/2022/12/2022-12-09_1.webp",
+      "variants": [
+        {
+          "source": "Baby2/Cá/IMG/2022-12-09_1.heic",
+          "destination": "Baby2/assets/y-khue/images/2022/12/2022-12-09_1-alt2.webp",
+          "subtype": "different-photo"
+        }
+      ]
+    },
+    {
+      "destination": "Baby2/assets/y-khue/images/2022/12/2022-12-13.webp",
+      "variants": [
+        {
+          "source": "Baby2/Cá/IMG/2022-12-13.jpg",
+          "destination": "Baby2/assets/y-khue/images/2022/12/2022-12-13-alt2.webp",
+          "subtype": "different-photo"
+        }
+      ]
+    },
+    {
+      "destination": "Baby2/assets/y-khue/images/2022/12/2022-12-13_1.webp",
+      "variants": [
+        {
+          "source": "Baby2/Cá/IMG/2022-12-13_1.heic",
+          "destination": "Baby2/assets/y-khue/images/2022/12/2022-12-13_1-alt2.webp",
+          "subtype": "different-photo"
+        },
+        {
+          "source": "Baby2/Cá/IMG/2022-12-13_1.jpg",
+          "destination": "Baby2/assets/y-khue/images/2022/12/2022-12-13_1-alt3.webp",
+          "subtype": "different-photo"
+        }
+      ]
+    },
+    {
+      "destination": "Baby2/assets/y-khue/images/2022/12/2022-12-13_2.webp",
+      "variants": [
+        {
+          "source": "Baby2/Cá/IMG/2022-12-13_2.jpg",
+          "destination": "Baby2/assets/y-khue/images/2022/12/2022-12-13_2-alt2.webp",
+          "subtype": "different-photo"
+        }
+      ]
+    },
+    {
+      "destination": "Baby2/assets/y-khue/images/2022/12/2022-12-15_1.webp",
+      "variants": [
+        {
+          "source": "Baby2/Cá/IMG/2022-12-15_1.jpg",
+          "destination": "Baby2/assets/y-khue/images/2022/12/2022-12-15_1-alt2.webp",
+          "subtype": "different-photo"
+        }
+      ]
+    },
+    {
+      "destination": "Baby2/assets/y-khue/images/2023/01/2023-01-08_52.webp",
+      "variants": [
+        {
+          "source": "Baby2/Cá/IMG/2023-01-08_52.PNG",
+          "destination": "Baby2/assets/y-khue/images/2023/01/2023-01-08_52-alt2.webp",
+          "subtype": "different-photo"
+        }
+      ]
+    },
+    {
+      "destination": "Baby2/assets/y-khue/images/2023/02/2023-02-10.webp",
+      "variants": [
+        {
+          "source": "Baby2/Cá/IMG/2023-02-10.jpg",
+          "destination": "Baby2/assets/y-khue/images/2023/02/2023-02-10-alt2.webp",
+          "subtype": "different-photo"
+        }
+      ]
+    },
+    {
+      "destination": "Baby2/assets/y-khue/images/2023/02/2023-02-10_1.webp",
+      "variants": [
+        {
+          "source": "Baby2/Cá/IMG/2023-02-10_1.heic",
+          "destination": "Baby2/assets/y-khue/images/2023/02/2023-02-10_1-alt2.webp",
+          "subtype": "different-photo"
+        },
+        {
+          "source": "Baby2/Cá/IMG/2023-02-10_1.jpg",
+          "destination": "Baby2/assets/y-khue/images/2023/02/2023-02-10_1-alt3.webp",
+          "subtype": "different-photo"
+        }
+      ]
+    },
+    {
+      "destination": "Baby2/assets/y-khue/images/2023/02/2023-02-10_2.webp",
+      "variants": [
+        {
+          "source": "Baby2/Cá/IMG/2023-02-10_2.jpg",
+          "destination": "Baby2/assets/y-khue/images/2023/02/2023-02-10_2-alt2.webp",
+          "subtype": "different-photo"
+        }
+      ]
+    },
+    {
+      "destination": "Baby2/assets/y-khue/images/2023/02/2023-02-20_1.webp",
+      "variants": [
+        {
+          "source": "Baby2/Cá/IMG/2023-02-20_1.png",
+          "destination": "Baby2/assets/y-khue/images/2023/02/2023-02-20_1-alt2.webp",
+          "subtype": "different-photo"
+        }
+      ]
+    },
+    {
+      "destination": "Baby2/assets/y-khue/images/2023/02/2023-02-26.webp",
+      "variants": [
+        {
+          "source": "Baby2/Cá/IMG/2023-02-26.png",
+          "destination": "Baby2/assets/y-khue/images/2023/02/2023-02-26-alt2.webp",
+          "subtype": "different-photo"
+        }
+      ]
+    },
+    {
+      "destination": "Baby2/assets/y-khue/images/2023/02/2023-02-26_1.webp",
+      "variants": [
+        {
+          "source": "Baby2/Cá/IMG/2023-02-26_1.heic",
+          "destination": "Baby2/assets/y-khue/images/2023/02/2023-02-26_1-alt2.webp",
+          "subtype": "different-photo"
+        }
+      ]
+    },
+    {
+      "destination": "Baby2/assets/y-khue/images/2023/02/2023-02-26_2.webp",
+      "variants": [
+        {
+          "source": "Baby2/Cá/IMG/2023-02-26_2.png",
+          "destination": "Baby2/assets/y-khue/images/2023/02/2023-02-26_2-alt2.webp",
+          "subtype": "different-photo"
+        }
+      ]
+    },
+    {
+      "destination": "Baby2/assets/y-khue/images/2023/03/2023-03-17.webp",
+      "variants": [
+        {
+          "source": "Baby2/Cá/IMG/2023-03-17.png",
+          "destination": "Baby2/assets/y-khue/images/2023/03/2023-03-17-alt2.webp",
+          "subtype": "screenshot-of-selected-photo"
+        }
+      ]
+    },
+    {
+      "destination": "Baby2/assets/y-khue/images/2023/03/2023-03-17_1.webp",
+      "variants": [
+        {
+          "source": "Baby2/Cá/IMG/2023-03-17_1.heic",
+          "destination": "Baby2/assets/y-khue/images/2023/03/2023-03-17_1-alt2.webp",
+          "subtype": "screenshot/crop-of-selected-photo"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "converted": [
+    {
+      "source_on_g": "G:\\Uncheck\\img\\FullData\\IMG_Lọc\\Cá\\IMG\\2022-12-09_1.heic",
+      "display": "Baby2/assets/y-khue/images/2022/12/2022-12-09_1-alt2.webp",
+      "checked": "G:\\Uncheck\\img\\WEBP\\Cá\\IMG_checked\\2022\\12\\2022-12-09_1-alt2.webp",
+      "sha256": "c8e3f3bcdd81b8f9cb4c9bed356fbd05a6af4a8f0e622f8c0571d451a85973b1"
+    },
+    {
+      "source_on_g": "G:\\Uncheck\\img\\FullData\\IMG_Lọc\\Cá\\IMG\\2022-12-13_1.heic",
+      "display": "Baby2/assets/y-khue/images/2022/12/2022-12-13_1-alt2.webp",
+      "checked": "G:\\Uncheck\\img\\WEBP\\Cá\\IMG_checked\\2022\\12\\2022-12-13_1-alt2.webp",
+      "sha256": "b460cdf06ccc0391e259264d95420072e32edd8a2147e844844d626e3b5e5714"
+    },
+    {
+      "source_on_g": "G:\\Uncheck\\img\\FullData\\IMG_Lọc\\Cá\\IMG\\2023-02-10_1.heic",
+      "display": "Baby2/assets/y-khue/images/2023/02/2023-02-10_1-alt2.webp",
+      "checked": "G:\\Uncheck\\img\\WEBP\\Cá\\IMG_checked\\2023\\02\\2023-02-10_1-alt2.webp",
+      "sha256": "4c3d8334dfa7bf34f48c3626af18a6d8d90226a3e6415d69490b7574a90d8c34"
+    },
+    {
+      "source_on_g": "G:\\Uncheck\\img\\FullData\\IMG_Lọc\\Cá\\IMG\\2023-02-26_1.heic",
+      "display": "Baby2/assets/y-khue/images/2023/02/2023-02-26_1-alt2.webp",
+      "checked": "G:\\Uncheck\\img\\WEBP\\Cá\\IMG_checked\\2023\\02\\2023-02-26_1-alt2.webp",
+      "sha256": "8ca1db0f8c635557f54f20c4eeec38d03e3b4f944673d351a1d36e4c9f14145b"
+    },
+    {
+      "source_on_g": "G:\\Uncheck\\img\\FullData\\IMG_Lọc\\Cá\\IMG\\2023-03-17_1.heic",
+      "display": "Baby2/assets/y-khue/images/2023/03/2023-03-17_1-alt2.webp",
+      "checked": "G:\\Uncheck\\img\\WEBP\\Cá\\IMG_checked\\2023\\03\\2023-03-17_1-alt2.webp",
+      "sha256": "f46e7077761ed4116d4238cd2ba74df96e38ba0b380f78e7228faeaec152926a"
+    }
+  ],
+  "deleted_originals": [
+    "G:\\Uncheck\\img\\FullData\\IMG_Lọc\\Cá\\IMG\\2022-12-09_1.heic",
+    "G:\\Uncheck\\img\\FullData\\IMG_Lọc\\Cá\\IMG\\2022-12-13_1.heic",
+    "G:\\Uncheck\\img\\FullData\\IMG_Lọc\\Cá\\IMG\\2023-02-10_1.heic",
+    "G:\\Uncheck\\img\\FullData\\IMG_Lọc\\Cá\\IMG\\2023-02-26_1.heic",
+    "G:\\Uncheck\\img\\FullData\\IMG_Lọc\\Cá\\IMG\\2023-03-17_1.heic"
+  ],
+  "failed": []
+}
