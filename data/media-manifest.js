@@ -3102,22 +3102,6 @@ window.BABY_MEDIA_MANIFEST = {
       "group": "diary"
     },
     {
-      "id": "assets/y-khue/images/2023/02/2023-02-07.webp",
-      "src": "./assets/y-khue/images/2023/02/2023-02-07.webp",
-      "originalFilename": "2023-02-07.webp",
-      "date": "2023-02-07",
-      "type": "image",
-      "group": "diary"
-    },
-    {
-      "id": "assets/y-khue/images/2023/02/2023-02-07_1.webp",
-      "src": "./assets/y-khue/images/2023/02/2023-02-07_1.webp",
-      "originalFilename": "2023-02-07_1.webp",
-      "date": "2023-02-07",
-      "type": "image",
-      "group": "diary"
-    },
-    {
       "id": "assets/y-khue/images/2023/02/2023-02-07_2.webp",
       "src": "./assets/y-khue/images/2023/02/2023-02-07_2.webp",
       "originalFilename": "2023-02-07_2.webp",
@@ -18867,7 +18851,7 @@ window.BABY_MEDIA_MANIFEST = {
     }
   ],
   "counts": {
-    "images": 1603,
+    "images": 1601,
     "videos": 671,
     "prenatal": 8
   }
