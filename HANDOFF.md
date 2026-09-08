@@ -152,3 +152,9 @@ Baby1 QA sau rename đã PASS ở 1440/390/320, static PASS 3.554 ownership/93 s
 - **4 file video >100MB bị GitHub chặn cứng, KHÔNG lên được, giữ local** (xem `.gitignore`): `assets/y-khue/videos/2022/08/2022-08-25_1_sieuam.mp4` (167MB)
 - Cấu trúc giữ nguyên (assets/css/js/data/scripts); `.gitignore` repo: contact-sheets + chỉ video của assets/y-khue/videos.
 - Sau này đổi tên project/domain trên Vercel thì nhớ cập nhật link card trong repo Discovery (`app.js`).
+
+## Video hover/chạm-giữ preview kiểu YouTube (06/09/2026)
+- `js/video-hover-preview.js` (dùng chung 3 site, nạp cuối chuỗi access-gate sau media-filename): desktop rê chuột ~0.4s → thumbnail tự phát video muted từ đầu, tối đa 6s rồi loop; rời chuột → dừng + gỡ src. Mobile: chạm giữ ~0.4s → preview, thả tay → dừng và CHẶN click mở viewer (gõ nhanh <0.4s vẫn mở viewer bình thường).
+- Performance chuẩn YouTube (đã test Playwright): cuộn full hành trình **0 MP4 nào được tải** (chỉ poster lazy); hover vào thumbnail nào chỉ tải đúng video đó.
+- Video hiển thị đè poster qua class `.is-previewing` (opacity poster → 0, video object-fit cover).
+- Lưu ý test bằng Playwright synthetic touch: phải dispatch TouchEvent có `touches` thật; `dispatch_event("touchstart")` không kèm touch list sẽ bị bỏ qua (đã nới điều kiện để hoạt động cả khi length != 1).
